@@ -8,3 +8,4 @@ requests_futures
 shtab
 websockets>=10.1
 babel
+pdfplumber
