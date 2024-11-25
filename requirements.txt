@@ -1,0 +1,10 @@
+certifi
+coloredlogs
+ecdsa
+packaging
+pathvalidate
+pygments
+requests_futures
+shtab
+websockets>=10.1
+babel
